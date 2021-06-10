@@ -29,7 +29,8 @@ button:hover{
 }
 main{
     text-align: center;
-    background-color: rgb(203, 235, 128);
+    background-image: url(photo-1579546929662-711aa81148cf.jpg);
+    background-size: cover;
     padding-top: 70px;
     min-height: 70vh;
 }
